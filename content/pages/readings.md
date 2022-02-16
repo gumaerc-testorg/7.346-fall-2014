@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 297557eb-2bdf-3b43-2728-2f7948d8b348
 ---
@@ -54,7 +57,7 @@ What are the Central Components of a Synapse?
 {{< tdopen >}}
 
 
-Kittel, R. J., C. Wichmann, et al. "[Bruchpilot Promotes Active Zone Assembly, Ca2+ Channel Clustering, and Vesicle Release](http://dx.doi.org/10.1126/science.1126308)." _Science_ 312, no. 5776 (2006): 1051–4.
+Kittel, R. J., C. Wichmann, et al. "[Bruchpilot Promotes Active Zone Assembly, Ca{{< sup "2+" >}} Channel Clustering, and Vesicle Release](http://dx.doi.org/10.1126/science.1126308)." _Science_ 312, no. 5776 (2006): 1051–4.
 
 Christopherson, K. S., E. M. Ullian, et al. "[Thrombospondins are Astrocyte-secreted Proteins that Promote CNS Synaptogenesis](http://dx.doi.org/10.1016/j.cell.2004.12.020)." _Cell_ 120, no. 3 (2005): 421–33.
 
