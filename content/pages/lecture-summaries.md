@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides summaries of the weekly course lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -251,7 +252,7 @@ Final Assignment and Closing Remarks
 {{< tdopen >}}
 
 
-{{< anchor "Week_14" >}}{{< /anchor >}}Oral Presentations (See [Assignments section]({{< baseurl >}}/pages/assignments) for details): Students will give approximately 15-minute PowerPoint presentations describing a research article related to the topics discussed in the course. The paper should be selected by Week 12 and requires approval by the instructors. Students and instructors will participate by asking questions and providing feedback to the presenters. We will conclude the session by discussing the course in general.
+{{< anchor "Week_14" >}}{{< /anchor >}}Oral Presentations (See {{% resource_link b8233d86-3972-b25b-39f9-45333aed7870 "Assignments section" %}} for details): Students will give approximately 15-minute PowerPoint presentations describing a research article related to the topics discussed in the course. The paper should be selected by Week 12 and requires approval by the instructors. Students and instructors will participate by asking questions and providing feedback to the presenters. We will conclude the session by discussing the course in general.
 
 
 {{< tdclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course description and information on meeting
+  times, prerequisites, format, course objectives, grading, and the schedule of course
+  topics, activities, and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,9 +19,9 @@ Prerequisites
 
 Recommended prerequisites are:
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Course Description
 ------------------
