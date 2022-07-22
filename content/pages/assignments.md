@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the mid-term written assignment
+  and the oral presentation required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b8233d86-3972-b25b-39f9-45333aed7870
 ---

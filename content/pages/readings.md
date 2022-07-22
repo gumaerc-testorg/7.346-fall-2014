@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by week and topic and
+  links to lecture summaries.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 297557eb-2bdf-3b43-2728-2f7948d8b348
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction and Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_1)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_1" %}}
 
 
 {{< tdclose >}}
@@ -47,14 +52,14 @@ Introduction and Overview
 
 What are the Central Components of a Synapse?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_2)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_2" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Kittel, R. J., C. Wichmann, et al. "[Bruchpilot Promotes Active Zone Assembly, Ca2+ Channel Clustering, and Vesicle Release](http://dx.doi.org/10.1126/science.1126308)." _Science_ 312, no. 5776 (2006): 1051–4.
+Kittel, R. J., C. Wichmann, et al. "[Bruchpilot Promotes Active Zone Assembly, Ca{{< sup "2+" >}} Channel Clustering, and Vesicle Release](http://dx.doi.org/10.1126/science.1126308)." _Science_ 312, no. 5776 (2006): 1051–4.
 
 Christopherson, K. S., E. M. Ullian, et al. "[Thrombospondins are Astrocyte-secreted Proteins that Promote CNS Synaptogenesis](http://dx.doi.org/10.1016/j.cell.2004.12.020)." _Cell_ 120, no. 3 (2005): 421–33.
 
@@ -71,7 +76,7 @@ Christopherson, K. S., E. M. Ullian, et al. "[Thrombospondins are Astrocyte-secr
 
 Molecular Mechanisms of Synapse Formation and Identity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_3)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_3" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Pinan-Lucarre, B., H. Tu, et al. "[_C. elegans_ Punctin Specifies Cholinergic 
 
 Canonical Microcircuit: Development and Organizing Principles
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_4)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_4" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Ko, H., S. B. Hofer, et al. "[Functional Specificity of Local Synaptic Connectio
 
 Molecular Basis of Synaptic Plasticity: Pre- and Postsynaptic Mechanisms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_5)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_5" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Bender, V. A., K. J. Bender, et al. "[Two Coincidence Detectors for Spike Timing
 
 Structural Plasticity: How Does Activity and Experience Change Synaptic Structures?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_6)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_6" %}}
 
 
 {{< tdclose >}}
@@ -165,7 +170,7 @@ Yuan, Q., Y. Xiang, et al. "[Light-induced Structural and Functional Plasticity 
 
 Diversity of Synapses: Excitation & Inhibition
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_7)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_7" %}}
 
 
 {{< tdclose >}}
@@ -189,7 +194,7 @@ Donato, F., S. B. Rompani, et al. "[Parvalbumin-expressing Basket-cell Network P
 
 Synaptic Learning Rules: Time and Space
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_8)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_8" %}}
 
 
 {{< tdclose >}}
@@ -211,7 +216,7 @@ Lamsa, K. P., J. H. Heeroma, et al. "[Anti-Hebbian Long-term Potentiation in the
 
 Correlates of Synaptic and Circuit Function with Behavior
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_9)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_9" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Pool, A. H., P. Kvello, et al. "[Four GABAergic Interneurons Impose Feeding Rest
 
 Regulatory Networks of Neuropsychiatric Disorders
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_10)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_10" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Tyzio, R., R. Nardou, et al. "[Oxytocin-mediated GABA Inhibition During Delivery
 
 From Genes to Phenotypes: Animal Models of Human Diseases
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_11)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_11" %}}
 
 
 {{< tdclose >}}
@@ -281,7 +286,7 @@ Goncalves, J. T., J. E. Anstey, et al. "[Circuit Level Defects in the Developing
 
 Modeling and Manipulating Neurological Disorders: _In vivo and in vitro_
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_12)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_12" %}}
 
 
 {{< tdclose >}}
@@ -305,7 +310,7 @@ Espuny-Camacho, I., K. A. Michelsen, et al. "[Pyramidal Neurons Derived from Hum
 
 Drug Discovery for Neuropsychiatric Disorders: A Visit to Pfizer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_13)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_13" %}}
 
 
 {{< tdclose >}}
@@ -327,7 +332,7 @@ Huang, H. S., J. A. Allen, et al. "[Topoisomerase Inhibitors Unsilence the Dorma
 
 Final Assignment and Closing Remarks
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_14)
+{{% resource_link 33f632a3-de32-c74d-b7f8-afa6fd716118 "See the Lecture Summary" "#Week_14" %}}
 
 
 {{< tdclose >}}
